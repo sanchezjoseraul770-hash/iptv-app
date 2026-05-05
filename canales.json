@@ -4,7 +4,8 @@
     "canales": [
       {
         "nombre": "Cine 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://via.placeholder.com/150x200?text=Cine+1"
       }
     ]
   },
@@ -13,16 +14,8 @@
     "canales": [
       {
         "nombre": "Deporte 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-      }
-    ]
-  },
-  {
-    "categoria": "Noticias",
-    "canales": [
-      {
-        "nombre": "Noticias 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://via.placeholder.com/150x200?text=Deporte"
       }
     ]
   }
