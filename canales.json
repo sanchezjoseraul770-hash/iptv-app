@@ -1,41 +1,404 @@
 [
   {
-    "categoria": "Cine",
+    "categoria": "Cine 1",
     "canales": [
       {
-        "nombre": "Cine 1",
+        "nombre": "Cine 1 - Canal 1",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/200/300?1"
       }
     ]
   },
   {
-    "categoria": "Deportes",
+    "categoria": "Cine 2",
     "canales": [
       {
-        "nombre": "Deporte 1",
-        "url": "https://ym9yzq.fubohd.com/tntsports/mono.m3u8?token=7bfa97ff42a5309dc6cb3053576013cb62db3388-75-1778049780-1778031780",
+        "nombre": "Cine 2 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/200/300?2"
       }
     ]
   },
   {
-    "categoria": "Series",
+    "categoria": "Cine 3",
     "canales": [
       {
-        "nombre": "Serie 1",
+        "nombre": "Cine 3 - Canal 1",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/200/300?3"
       }
     ]
   },
   {
-    "categoria": "Música",
+    "categoria": "Cine 4",
     "canales": [
       {
-        "nombre": "Música 1",
+        "nombre": "Cine 4 - Canal 1",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/200/300?4"
+      }
+    ]
+  },
+  {
+    "categoria": "Cine 5",
+    "canales": [
+      {
+        "nombre": "Cine 5 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?5"
+      }
+    ]
+  },
+  {
+    "categoria": "Cine 6",
+    "canales": [
+      {
+        "nombre": "Cine 6 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?6"
+      }
+    ]
+  },
+  {
+    "categoria": "Cine 7",
+    "canales": [
+      {
+        "nombre": "Cine 7 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?7"
+      }
+    ]
+  },
+  {
+    "categoria": "Cine 8",
+    "canales": [
+      {
+        "nombre": "Cine 8 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?8"
+      }
+    ]
+  },
+  {
+    "categoria": "Cine 9",
+    "canales": [
+      {
+        "nombre": "Cine 9 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?9"
+      }
+    ]
+  },
+  {
+    "categoria": "Cine 10",
+    "canales": [
+      {
+        "nombre": "Cine 10 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?10"
+      }
+    ]
+  },
+
+  {
+    "categoria": "Deportes 1",
+    "canales": [
+      {
+        "nombre": "Deportes 1 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?11"
+      }
+    ]
+  },
+  {
+    "categoria": "Deportes 2",
+    "canales": [
+      {
+        "nombre": "Deportes 2 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?12"
+      }
+    ]
+  },
+  {
+    "categoria": "Deportes 3",
+    "canales": [
+      {
+        "nombre": "Deportes 3 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?13"
+      }
+    ]
+  },
+  {
+    "categoria": "Deportes 4",
+    "canales": [
+      {
+        "nombre": "Deportes 4 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?14"
+      }
+    ]
+  },
+  {
+    "categoria": "Deportes 5",
+    "canales": [
+      {
+        "nombre": "Deportes 5 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?15"
+      }
+    ]
+  },
+  {
+    "categoria": "Deportes 6",
+    "canales": [
+      {
+        "nombre": "Deportes 6 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?16"
+      }
+    ]
+  },
+  {
+    "categoria": "Deportes 7",
+    "canales": [
+      {
+        "nombre": "Deportes 7 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?17"
+      }
+    ]
+  },
+  {
+    "categoria": "Deportes 8",
+    "canales": [
+      {
+        "nombre": "Deportes 8 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?18"
+      }
+    ]
+  },
+  {
+    "categoria": "Deportes 9",
+    "canales": [
+      {
+        "nombre": "Deportes 9 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?19"
+      }
+    ]
+  },
+  {
+    "categoria": "Deportes 10",
+    "canales": [
+      {
+        "nombre": "Deportes 10 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?20"
+      }
+    ]
+  },
+
+  {
+    "categoria": "Series 1",
+    "canales": [
+      {
+        "nombre": "Series 1 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?21"
+      }
+    ]
+  },
+  {
+    "categoria": "Series 2",
+    "canales": [
+      {
+        "nombre": "Series 2 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?22"
+      }
+    ]
+  },
+  {
+    "categoria": "Series 3",
+    "canales": [
+      {
+        "nombre": "Series 3 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?23"
+      }
+    ]
+  },
+  {
+    "categoria": "Series 4",
+    "canales": [
+      {
+        "nombre": "Series 4 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?24"
+      }
+    ]
+  },
+  {
+    "categoria": "Series 5",
+    "canales": [
+      {
+        "nombre": "Series 5 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?25"
+      }
+    ]
+  },
+  {
+    "categoria": "Series 6",
+    "canales": [
+      {
+        "nombre": "Series 6 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?26"
+      }
+    ]
+  },
+  {
+    "categoria": "Series 7",
+    "canales": [
+      {
+        "nombre": "Series 7 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?27"
+      }
+    ]
+  },
+  {
+    "categoria": "Series 8",
+    "canales": [
+      {
+        "nombre": "Series 8 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?28"
+      }
+    ]
+  },
+  {
+    "categoria": "Series 9",
+    "canales": [
+      {
+        "nombre": "Series 9 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?29"
+      }
+    ]
+  },
+  {
+    "categoria": "Series 10",
+    "canales": [
+      {
+        "nombre": "Series 10 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?30"
+      }
+    ]
+  },
+
+  {
+    "categoria": "Música 1",
+    "canales": [
+      {
+        "nombre": "Música 1 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?31"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 2",
+    "canales": [
+      {
+        "nombre": "Música 2 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?32"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 3",
+    "canales": [
+      {
+        "nombre": "Música 3 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?33"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 4",
+    "canales": [
+      {
+        "nombre": "Música 4 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?34"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 5",
+    "canales": [
+      {
+        "nombre": "Música 5 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?35"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 6",
+    "canales": [
+      {
+        "nombre": "Música 6 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?36"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 7",
+    "canales": [
+      {
+        "nombre": "Música 7 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?37"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 8",
+    "canales": [
+      {
+        "nombre": "Música 8 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?38"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 9",
+    "canales": [
+      {
+        "nombre": "Música 9 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?39"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 10",
+    "canales": [
+      {
+        "nombre": "Música 10 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?40"
       }
     ]
   }
