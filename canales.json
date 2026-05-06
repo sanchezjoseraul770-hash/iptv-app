@@ -162,11 +162,11 @@
   },
 
   {
-    "categoria": "Series 1",
+    "categoria": "TNT SERIES",
     "canales": [
       {
-        "nombre": "Series 1 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "nombre": "TNT SERIES - Canal 1",
+        "url": "https://regionales.saohgdasregions.fun:9092/MTg5LjE0OC40My44MA==/53_.m3u8?token=-TXW1oM1SX81snj3wLIgWQ&expires=1778086933",
         "img": "https://picsum.photos/200/300?21"
       }
     ]
