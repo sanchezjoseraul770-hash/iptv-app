@@ -105,7 +105,7 @@
     "canales": [ 
       {
         "nombre": "deportes 1 - canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "url": "https://qzv4jmsc.fubohd.com/espn2/mono.m3u8?token=093cff13eedda7930922c8c03c958780c39341cf-e3-1778053882-1778035882",
         "img": "https://picsum.photos/200/300?11"
       }
     ]
@@ -115,7 +115,7 @@
     "canales": [
       {
         "nombre": "deportes 2 - Canal 2",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "url": "https://aw1wcm92zq.fubohd.com/espn3/mono.m3u8?token=acf826695ef0a5987db6af1cdc4371d6ebbc68fe-1c-1778055574-1778037574",
         "img": "https://picsum.photos/200/300?12"
       }
     ]
