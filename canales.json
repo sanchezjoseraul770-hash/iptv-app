@@ -172,11 +172,11 @@
     ]
   },
   {
-    "categoria": "Series 2",
+    "categoria": "SERIES 2 ",
     "canales": [
       {
-        "nombre": "Series 2 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "nombre": "BETY LA FEA - Canal 1",
+        "url": "https://www.youtube.com/watch?v=2zzWG6EB5xM&list=PLARNzRPnDAQ32ihLCUMmd5FU2hMRn3bg5",
         "img": "https://picsum.photos/200/300?22"
       }
     ]
