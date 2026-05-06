@@ -101,11 +101,11 @@
   },
 
   {
-    "categoria": "ESPN 2",
+    "categoria": "ESPN DEPORTES",
     "canales": [
       {
-        "nombre": "ESPN 2",
-        "url": "https://x4bnd7lq.fubohd.com/espn2/mono.m3u8?token=3158845fcc1bf078c40dcf0a4c34579ef594038d-9b-1778055941-1778037941",
+        "nombre": "ESPN DEPORTES",
+        "url": "https://a2vlca.fubohd.com/espndeportes/mono.m3u8?token=b7cf304464765b050bb3f4a0d5e8cb5ed8c962e1-a0-1778063534-1778045534",
         "img": "https://picsum.photos/200/300?11"
       }
     ]
