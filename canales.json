@@ -1,49 +1,14 @@
-{
-  "app": "IPTV PRO",
-  "version": "1.0",
-  "categorias": [
-    {
-      "id": "cine",
-      "nombre": "Cine",
-      "canales": [
-        {
-          "nombre": "Cine 1",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "logo": "https://picsum.photos/200/200?1"
-        },
-        {
-          "nombre": "Cine 2",
-          "url": "https://test-streams.mux.dev/test.m3u8",
-          "logo": "https://picsum.photos/200/200?2"
-        }
-      ]
-    },
-    {
-      "id": "deportes",
-      "nombre": "Deportes",
-      "canales": [
-        {
-          "nombre": "Deporte 1",
-          "url": "https://ejemplo.com/stream1.m3u8",
-          "logo": "https://picsum.photos/200/200?3"
-        },
-        {
-          "nombre": "Deporte 2",
-          "url": "https://ejemplo.com/stream2.m3u8",
-          "logo": "https://picsum.photos/200/200?4"
-        }
-      ]
-    },
-    {
-      "id": "series",
-      "nombre": "Series",
-      "canales": [
-        {
-          "nombre": "Serie 1",
-          "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-          "logo": "https://picsum.photos/200/200?5"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "categoria": "Cine",
+    "nombre": "Cine 1",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+    "img": "https://picsum.photos/200/300?1"
+  },
+  {
+    "categoria": "Deportes",
+    "nombre": "Deporte 1",
+    "url": "https://ym9yzq.fubohd.com/tntsports/mono.m3u8?token=7bfa97ff42a5309dc6cb3053576013cb62db3388-75-1778049780-1778031780",
+    "img": "https://picsum.photos/200/300?2"
+  }
+]
