@@ -101,10 +101,10 @@
   },
 
   {
-    "categoria": "ESPN 1",
+    "categoria": "Deporte 1",
     "canales": [
       {
-        "nombre": "espn 1 - canal 1",
+        "nombre": "deportes 1 - canal 1",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/200/300?11"
       }
@@ -114,7 +114,7 @@
     "categoria": "Deportes 2",
     "canales": [
       {
-        "nombre": "Deportes 2 - Canal 1",
+        "nombre": "ESPN 2 - Canal 2",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/200/300?12"
       }
