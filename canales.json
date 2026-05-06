@@ -34,7 +34,7 @@
     "canales": [
       {
         "nombre": "Cine 4 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "url": "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
         "img": "https://picsum.photos/200/300?4"
       }
     ]
