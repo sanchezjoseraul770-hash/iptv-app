@@ -4,7 +4,7 @@
     "canales": [
       {
         "nombre": "Cine 1 - Canal 1",
-        "url": "https://cgxheq.fubohd.com/espn3/mono.m3u8?token=9ed0178e40981d4bb680db30fafb01b427bdf870-2b-1778054354-1778036354",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/200/300?1"
       }
     ]
@@ -101,11 +101,11 @@
   },
 
   {
-    "categoria": "Deporte 1",
+    "categoria": "Deportes 1",
     "canales": [ 
       {
-        "nombre": "ESPN 1 - canal 1",
-        "url": "https://wp9xqedt.fubohd.com/espndeportes/mono.m3u8?token=8cac248961bf683d004e760224bca66fc90732e9-95-1778053781-1778035781",
+        "nombre": "deportes 1 - canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/200/300?11"
       }
     ]
@@ -114,8 +114,8 @@
     "categoria": "Deportes 2",
     "canales": [
       {
-        "nombre": "ESPN 2 - Canal 2",
-        "url": "h",
+        "nombre": "deportes 2 - Canal 2",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/200/300?12"
       }
     ]
