@@ -101,7 +101,7 @@
   },
 
   {
-    "categoria": "Deportes",
+    "categoria": "ESPN 2",
     "canales": [
       {
         "nombre": "ESPN 2",
@@ -111,7 +111,7 @@
     ]
   },
   {
-    "categoria": "Deportes 2",
+    "categoria": "ESPN 2",
     "canales": [
       {
         "nombre": "ESPN 2",
@@ -121,7 +121,7 @@
     ]
   },
   {
-    "categoria": "Deportes 3",
+    "categoria": "ESPN 3",
     "canales": [
       {
         "nombre": "ESPN 3",
@@ -131,7 +131,7 @@
     ]
   },
   {
-    "categoria": "Deportes 4",
+    "categoria": "ESPN PREMIUM",
     "canales": [
       {
         "nombre": "ESPN Premium",
@@ -151,7 +151,7 @@
     ]
   },
   {
-    "categoria": "Deportes 6",
+    "categoria": "TDN",
     "canales": [
       {
         "nombre": "TUDN",
