@@ -101,8 +101,8 @@
   },
 
   {
-    "categoria": "ESPN",
-    "canales": [
+    "categoria": "Deporte 1",
+    "canales": [ espn
       {
         "nombre": "deporte 1",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
