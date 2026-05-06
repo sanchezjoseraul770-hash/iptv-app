@@ -101,7 +101,7 @@
   },
 
   {
-    "categoria": "Deportes 1",
+    "categoria": "Deportes",
     "canales": [
       {
         "nombre": "Deportes 1 - Canal 1",
@@ -141,7 +141,7 @@
     ]
   },
   {
-    "categoria": "Deportes 5",
+    "categoria": "Deportes Premium",
     "canales": [
       {
         "nombre": "Deportes 5 - Canal 1",
@@ -150,6 +150,7 @@
       }
     ]
   },
+
   {
     "categoria": "Deportes 6",
     "canales": [
@@ -197,208 +198,6 @@
         "nombre": "Deportes 10 - Canal 1",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/200/300?20"
-      }
-    ]
-  },
-
-  {
-    "categoria": "Series 1",
-    "canales": [
-      {
-        "nombre": "Series 1 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?21"
-      }
-    ]
-  },
-  {
-    "categoria": "Series 2",
-    "canales": [
-      {
-        "nombre": "Series 2 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?22"
-      }
-    ]
-  },
-  {
-    "categoria": "Series 3",
-    "canales": [
-      {
-        "nombre": "Series 3 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?23"
-      }
-    ]
-  },
-  {
-    "categoria": "Series 4",
-    "canales": [
-      {
-        "nombre": "Series 4 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?24"
-      }
-    ]
-  },
-  {
-    "categoria": "Series 5",
-    "canales": [
-      {
-        "nombre": "Series 5 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?25"
-      }
-    ]
-  },
-  {
-    "categoria": "Series 6",
-    "canales": [
-      {
-        "nombre": "Series 6 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?26"
-      }
-    ]
-  },
-  {
-    "categoria": "Series 7",
-    "canales": [
-      {
-        "nombre": "Series 7 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?27"
-      }
-    ]
-  },
-  {
-    "categoria": "Series 8",
-    "canales": [
-      {
-        "nombre": "Series 8 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?28"
-      }
-    ]
-  },
-  {
-    "categoria": "Series 9",
-    "canales": [
-      {
-        "nombre": "Series 9 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?29"
-      }
-    ]
-  },
-  {
-    "categoria": "Series 10",
-    "canales": [
-      {
-        "nombre": "Series 10 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?30"
-      }
-    ]
-  },
-
-  {
-    "categoria": "Música 1",
-    "canales": [
-      {
-        "nombre": "Música 1 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?31"
-      }
-    ]
-  },
-  {
-    "categoria": "Música 2",
-    "canales": [
-      {
-        "nombre": "Música 2 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?32"
-      }
-    ]
-  },
-  {
-    "categoria": "Música 3",
-    "canales": [
-      {
-        "nombre": "Música 3 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?33"
-      }
-    ]
-  },
-  {
-    "categoria": "Música 4",
-    "canales": [
-      {
-        "nombre": "Música 4 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?34"
-      }
-    ]
-  },
-  {
-    "categoria": "Música 5",
-    "canales": [
-      {
-        "nombre": "Música 5 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?35"
-      }
-    ]
-  },
-  {
-    "categoria": "Música 6",
-    "canales": [
-      {
-        "nombre": "Música 6 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?36"
-      }
-    ]
-  },
-  {
-    "categoria": "Música 7",
-    "canales": [
-      {
-        "nombre": "Música 7 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?37"
-      }
-    ]
-  },
-  {
-    "categoria": "Música 8",
-    "canales": [
-      {
-        "nombre": "Música 8 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?38"
-      }
-    ]
-  },
-  {
-    "categoria": "Música 9",
-    "canales": [
-      {
-        "nombre": "Música 9 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?39"
-      }
-    ]
-  },
-  {
-    "categoria": "Música 10",
-    "canales": [
-      {
-        "nombre": "Música 10 - Canal 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?40"
       }
     ]
   }
