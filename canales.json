@@ -101,10 +101,10 @@
   },
 
   {
-    "categoria": "Deportes 1 ",
-    "canales": [ 
+    "categoria": "Deportes 1",
+    "canales": [
       {
-        "nombre": "deportes 1 - canal 1 ",
+        "nombre": "Deportes 1 - Canal 1",
         "url": "https://agvyby.fubohd.com/espndeportes/mono.m3u8?token=dcb288368a068f32d74aac3d09e789e54f253c2c-d7-1778056486-1778038486",
         "img": "https://picsum.photos/200/300?11"
       }
@@ -114,7 +114,7 @@
     "categoria": "Deportes 2",
     "canales": [
       {
-        "nombre": "deportes 2 - Canal 2",
+        "nombre": "Deportes 2 - Canal 1",
         "url": "https://x4bnd7lq.fubohd.com/espn2/mono.m3u8?token=3158845fcc1bf078c40dcf0a4c34579ef594038d-9b-1778055941-1778037941",
         "img": "https://picsum.photos/200/300?12"
       }
