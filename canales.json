@@ -1,22 +1,10 @@
 [
   {
-    "categoria": "🎬 Cine",
-    "canales": [
-      {
-        "nombre": "Pelicula 1",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-        "img": "https://via.placeholder.com/120x160/111/fff?text=Cine+1"
-      }
-    ]
+    "nombre": "Cine 1",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   },
   {
-    "categoria": "⚽ Deportes",
-    "canales": [
-      {
-        "nombre": "Futbol 1",
-        "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-        "img": "https://via.placeholder.com/120x160/111/fff?text=Deporte"
-      }
-    ]
+    "nombre": "Deportes 1",
+    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   }
 ]
