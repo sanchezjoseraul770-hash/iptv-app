@@ -104,8 +104,8 @@
     "categoria": "Deportes",
     "canales": [
       {
-        "nombre": "Deportes 1 - Canal 1",
-        "url": "https://x4bnd7lq.fubohd.com/espn2/mono.m3u8?token=3158845fcc1bf078c40dcf0a4c34579ef594038d-9b-1778055941-1778037941",
+        "nombre": "ESPN Deportes",
+        "url": "https://agvyby.fubohd.com/espndeportes/mono.m3u8?token=dcb288368a068f32d74aac3d09e789e54f253c2c-d7-1778056486-1778038486",
         "img": "https://picsum.photos/200/300?11"
       }
     ]
@@ -114,7 +114,7 @@
     "categoria": "Deportes 2",
     "canales": [
       {
-        "nombre": "Deportes 2 - Canal 1",
+        "nombre": "ESPN 2",
         "url": "https://x4bnd7lq.fubohd.com/espn2/mono.m3u8?token=3158845fcc1bf078c40dcf0a4c34579ef594038d-9b-1778055941-1778037941",
         "img": "https://picsum.photos/200/300?12"
       }
@@ -124,7 +124,7 @@
     "categoria": "Deportes 3",
     "canales": [
       {
-        "nombre": "Deportes 3 - Canal 1",
+        "nombre": "ESPN 3",
         "url": "https://cgxheq.fubohd.com/espn3/mono.m3u8?token=9ed0178e40981d4bb680db30fafb01b427bdf870-2b-1778054354-1778036354",
         "img": "https://picsum.photos/200/300?13"
       }
@@ -134,8 +134,8 @@
     "categoria": "Deportes 4",
     "canales": [
       {
-        "nombre": "Deportes 4 - Canal 1",
-        "url": "https://cgxheq.fubohd.com/espn3/mono.m3u8?token=9ed0178e40981d4bb680db30fafb01b427bdf870-2b-1778054354-1778036354",
+        "nombre": "ESPN Premium",
+        "url": "https://ag9wzq.fubohd.com/espnpremium/mono.m3u8?token=d60dbcc98f1b3c789606d8dcffccffb7cb8fbb64-68-1778058899-1778040899",
         "img": "https://picsum.photos/200/300?14"
       }
     ]
@@ -144,60 +144,221 @@
     "categoria": "Deportes Premium",
     "canales": [
       {
-        "nombre": "Deportes Premium - Canal 1",
-        "url": "https://ag9wzq.fubohd.com/espnpremium/mono.m3u8?token=d60dbcc98f1b3c789606d8dcffccffb7cb8fbb64-68-1778058899-1778040899",
+        "nombre": "Premium Extra",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/200/300?15"
       }
     ]
   },
-
   {
     "categoria": "Deportes 6",
     "canales": [
       {
-        "nombre": "Deportes 6 - Canal 1",
+        "nombre": "TUDN",
         "url": "https://dw5pdgvk.fubohd.com/tudn_mx/mono.m3u8?token=f1c01862cfc0a8e13edf892913abc7d69cd32c4b-b2-1778060495-1778042495",
         "img": "https://picsum.photos/200/300?16"
       }
     ]
   },
+
   {
-    "categoria": "Deportes 7",
+    "categoria": "Series 1",
     "canales": [
       {
-        "nombre": "Deportes 7 - Canal 1",
+        "nombre": "Series 1 - Canal 1",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?17"
+        "img": "https://picsum.photos/200/300?21"
       }
     ]
   },
   {
-    "categoria": "Deportes 8",
+    "categoria": "Series 2",
     "canales": [
       {
-        "nombre": "Deportes 8 - Canal 1",
+        "nombre": "Series 2 - Canal 1",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?18"
+        "img": "https://picsum.photos/200/300?22"
       }
     ]
   },
   {
-    "categoria": "Deportes 9",
+    "categoria": "Series 3",
     "canales": [
       {
-        "nombre": "Deportes 9 - Canal 1",
+        "nombre": "Series 3 - Canal 1",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?19"
+        "img": "https://picsum.photos/200/300?23"
       }
     ]
   },
   {
-    "categoria": "Deportes 10",
+    "categoria": "Series 4",
     "canales": [
       {
-        "nombre": "Deportes 10 - Canal 1",
+        "nombre": "Series 4 - Canal 1",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/200/300?20"
+        "img": "https://picsum.photos/200/300?24"
+      }
+    ]
+  },
+  {
+    "categoria": "Series 5",
+    "canales": [
+      {
+        "nombre": "Series 5 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?25"
+      }
+    ]
+  },
+  {
+    "categoria": "Series 6",
+    "canales": [
+      {
+        "nombre": "Series 6 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?26"
+      }
+    ]
+  },
+  {
+    "categoria": "Series 7",
+    "canales": [
+      {
+        "nombre": "Series 7 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?27"
+      }
+    ]
+  },
+  {
+    "categoria": "Series 8",
+    "canales": [
+      {
+        "nombre": "Series 8 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?28"
+      }
+    ]
+  },
+  {
+    "categoria": "Series 9",
+    "canales": [
+      {
+        "nombre": "Series 9 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?29"
+      }
+    ]
+  },
+  {
+    "categoria": "Series 10",
+    "canales": [
+      {
+        "nombre": "Series 10 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?30"
+      }
+    ]
+  },
+
+  {
+    "categoria": "Música 1",
+    "canales": [
+      {
+        "nombre": "Música 1 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?31"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 2",
+    "canales": [
+      {
+        "nombre": "Música 2 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?32"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 3",
+    "canales": [
+      {
+        "nombre": "Música 3 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?33"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 4",
+    "canales": [
+      {
+        "nombre": "Música 4 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?34"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 5",
+    "canales": [
+      {
+        "nombre": "Música 5 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?35"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 6",
+    "canales": [
+      {
+        "nombre": "Música 6 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?36"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 7",
+    "canales": [
+      {
+        "nombre": "Música 7 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?37"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 8",
+    "canales": [
+      {
+        "nombre": "Música 8 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?38"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 9",
+    "canales": [
+      {
+        "nombre": "Música 9 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?39"
+      }
+    ]
+  },
+  {
+    "categoria": "Música 10",
+    "canales": [
+      {
+        "nombre": "Música 10 - Canal 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/200/300?40"
       }
     ]
   }
