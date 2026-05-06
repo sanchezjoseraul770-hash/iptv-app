@@ -101,11 +101,11 @@
   },
 
   {
-    "categoria": "Deportes ",
+    "categoria": "Deportes 1 ",
     "canales": [ 
       {
-        "nombre": "deportes  - canal ",
-        "url": "https://agvyby.fubohd.com/espndeportes/mono.m3u8?token=dcb288368a068f32d74aac3d09e789e54f253c2c-d7-1778056486-1778038486",
+        "nombre": "deportes 1 - canal 1 ",
+        "url": "https://agvyby.fubohd.com/espndeportes1/mono.m3u8?token=dcb288368a068f32d74aac3d09e789e54f253c2c-d7-1778056486-1778038486",
         "img": "https://picsum.photos/200/300?11"
       }
     ]
