@@ -1,26 +1,22 @@
 [
   {
-    "nombre": "🎬 Cine 1",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    "categoria": "Películas",
+    "canales": [
+      {
+        "nombre": "Cine 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://via.placeholder.com/120x160/000000/ffffff?text=Cine+1"
+      }
+    ]
   },
   {
-    "nombre": "🎬 Cine 2",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-  },
-  {
-    "nombre": "⚽ Deportes 1",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
-  },
-  {
-    "nombre": "⚽ Deportes 2",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
-  },
-  {
-    "nombre": "📰 Noticias",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-  },
-  {
-    "nombre": "🎵 Música",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    "categoria": "Deportes",
+    "canales": [
+      {
+        "nombre": "Deporte 1",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://via.placeholder.com/120x160/000000/ffffff?text=Deporte"
+      }
+    ]
   }
 ]
