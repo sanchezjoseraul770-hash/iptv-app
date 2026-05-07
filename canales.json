@@ -57,11 +57,11 @@
   },
 
   {
-    "categoria": "DEPORTES",
+    "categoria": "FOXSPORTS 2",
     "vertical": true,
     "canales": [
       {
-        "nombre": "ESPN DEPORTES",
+        "nombre": "FOXSPORTS 2",
         "url": "https://anvtcax.fubohd.com/tudn_mx/mono.m3u8?token=284e6dd680ff95c9960b1b8f04603b61f3af46fd-a3-1778200280-1778182280",
         "img": "https://picsum.photos/300/500?11"
       },
