@@ -62,32 +62,32 @@
     "canales": [
       {
         "nombre": "ESPN DEPORTES",
-        "url": "https://dw5pdgvk.fubohd.com/foxsportspremium/mono.m3u8?token=8ba7ef7e31b7e477f538054bf701f764edf8277f-49-1778150220-1778132220",
+        "url": "https://anvtcax.fubohd.com/tudn_mx/mono.m3u8?token=284e6dd680ff95c9960b1b8f04603b61f3af46fd-a3-1778200280-1778182280",
         "img": "https://picsum.photos/300/500?11"
       },
       {
         "nombre": "ESPN 2",
-        "url": "https://c2nvdxq.fubohd.com/espn2/mono.m3u8?token=dabc730c35ae7235f8370b5e4c2616538cbafaf2-a1-1778149371-1778131371",
+        "url": "https://ym9yzq.fubohd.com/espn2/mono.m3u8?token=b553845cddc04db8372414fc0e6b3f8e3a43413a-7d-1778200183-1778182183",
         "img": "https://picsum.photos/300/500?12"
       },
       {
         "nombre": "ESPN 3",
-        "url": "https://x4bnd7lq.fubohd.com/espn3/mono.m3u8?token=9085e7947e8cf534df9945662142ab20952fdce8-5a-1778149567-1778131567",
+        "url": "https://anvtcax.fubohd.com/espn3/mono.m3u8?token=1763a94bd8f38d53194ed231c0d4374b0c9abe2f-10-1778200122-1778182122",
         "img": "https://picsum.photos/300/500?13"
       },
       {
         "nombre": "ESPN PREMIUM",
-        "url": "https://aw1wcm92zq.fubohd.com/espnpremium/mono.m3u8",
+        "url": "https://ym9yzq.fubohd.com/espnpremium/mono.m3u8?token=b23f174701a0c747872628d422af56dfc772ccfa-1d-1778200236-1778182236",
         "img": "https://picsum.photos/300/500?14"
       },
       {
         "nombre": "FOX SPORTS",
-        "url": "https://tyg2mnl9.fubohd.com/foxsports/mono.m3u8",
+        "url": "https://ag9wzq.fubohd.com/foxdeportes/mono.m3u8?token=71b913a7d77aa8b92287fa1195c89b74a99fde6d-d9-1778199964-1778181964",
         "img": "https://picsum.photos/300/500?15"
       },
       {
         "nombre": "TUDN",
-        "url": "https://bgfuzq.fubohd.com/tudn_mx/mono.m3u8",
+        "url": "https://tyg2mnl9.fubohd.com/tudn/mono.m3u8?token=23c7119df2740bdbfac71065f50278cc834c2acf-2f-1778200377-1778182377",
         "img": "https://picsum.photos/300/500?16"
       }
     ]
