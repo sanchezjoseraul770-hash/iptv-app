@@ -5,31 +5,31 @@
     "canales": [
       {
         "nombre": "Cine 1",
-        "url": "https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/chunklist_w595325321.m3u8",
+        "url": "",
         "img": "https://picsum.photos/300/500?1",
         "autoRefresh": true
       },
       {
         "nombre": "Cine 2",
-        "url": "https://latamvdo.com:3870/hybrid/play.m3u8",
+        "url": " ",
         "img": "https://picsum.photos/300/500?2",
         "autoRefresh": true
       },
       {
         "nombre": "Cine 3",
-        "url": "https://videohd.live:19360/8076/8076.m3u8",
+        "url": "",
         "img": "https://picsum.photos/300/500?3",
         "autoRefresh": true
       },
       {
         "nombre": "Cine 4",
-        "url": "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
+        "url": "",
         "img": "https://picsum.photos/300/500?4",
         "autoRefresh": true
       },
       {
         "nombre": "Cine 5",
-        "url": "https://s1327.mywebtv.cloud/hls/espn5/index.m3u8?token=cGQaJEjsYCgt29Y8SRmzAA&expires=1778231725",
+        "url": "",
         "img": "https://picsum.photos/300/500?5",
         "autoRefresh": true
       },
@@ -71,7 +71,7 @@
     "vertical": true,
     "canales": [
       {
-        "nombre": "Winsports",
+        "nombre": "Winsports Mas",
         "url": "https://dw5pdgvk.fubohd.com/winsports/mono.m3u8?token=7592b47be3fc6fa40303150b96b25541344493aa-ae-1778218649-1778200649",
         "img": "https://picsum.photos/300/500?11",
         "token": true,
@@ -79,7 +79,7 @@
         "autoRefresh": true
       },
       {
-        "nombre": "ESPN 2",
+        "nombre": "WinSports",
         "url": "https://agvyby.fubohd.com/espn2/mono.m3u8?token=30e7a870e028469766e3fdf53eb02c24ac5c6304-99-1778218354-1778200354",
         "img": "https://picsum.photos/300/500?12",
         "token": true,
@@ -87,7 +87,7 @@
         "autoRefresh": true
       },
       {
-        "nombre": "ESPN 3",
+        "nombre": "Universo",
         "url": "https://tyg2mnl9.fubohd.com/espn3/mono.m3u8?token=0e4fc2969ec03e90f69eeb0553ec8a8246c70255-37-1778218547-1778200547",
         "img": "https://picsum.photos/300/500?13",
         "token": true,
@@ -95,7 +95,7 @@
         "autoRefresh": true
       },
       {
-        "nombre": "ESPN PREMIUM",
+        "nombre": "TyC Sports",
         "url": "https://agvyby.fubohd.com/espnpremium/mono.m3u8?token=fdbb363b9b62cd5190d75eea3cc3c166ac1ac413-2-1778218480-1778200480",
         "img": "https://picsum.photos/300/500?14",
         "token": true,
@@ -103,7 +103,7 @@
         "autoRefresh": true
       },
       {
-        "nombre": "FOX SPORTS",
+        "nombre": "TUDN",
         "url": "https://tyg2mnl9.fubohd.com/foxsports/mono.m3u8?token=b33311711bf22367774a10a365c892c0d8b551d2-2a-1778218599-1778200599",
         "img": "https://picsum.photos/300/500?15",
         "token": true,
@@ -111,7 +111,7 @@
         "autoRefresh": true
       },
       {
-        "nombre": "TUDN",
+        "nombre": "TNT SPORTS PREMIUM",
         "url": "https://rm8zcvk3.fubohd.com/tudn_mx/mono.m3u8?token=b53e3009bc02b2ccf2c81d095dcacaaf29cb3747-aa-1778214422-1778196422",
         "img": "https://picsum.photos/300/500?16",
         "token": true,
@@ -119,85 +119,85 @@
         "autoRefresh": true
       },
       {
-        "nombre": "Deportes 7",
+        "nombre": "FOXSPORTS",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/300/500?17",
         "autoRefresh": true
       },
       {
-        "nombre": "Deportes 8",
+        "nombre": "FOXSPORTS 2",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/300/500?18",
         "autoRefresh": true
       },
       {
-        "nombre": "Deportes 9",
+        "nombre": "FOXSPORTS 3",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/300/500?19",
         "autoRefresh": true
       },
       {
-        "nombre": "Deportes 10",
+        "nombre": "ESPN",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/300/500?20",
         "autoRefresh": true
       },
       {
-        "nombre": "Deportes 11",
+        "nombre": "ESPN 2",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/300/500?21",
         "autoRefresh": true
       },
       {
-        "nombre": "Deportes 12",
+        "nombre": "ESPN 3",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/300/500?22",
         "autoRefresh": true
       },
       {
-        "nombre": "Deportes 13",
+        "nombre": "ESPN 4",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/300/500?23",
         "autoRefresh": true
       },
       {
-        "nombre": "Deportes 14",
+        "nombre": "ESPN 5",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/300/500?24",
         "autoRefresh": true
       },
       {
-        "nombre": "Deportes 15",
+        "nombre": "ESPN 6",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/300/500?25",
         "autoRefresh": true
       },
       {
-        "nombre": "Deportes 16",
+        "nombre": "ESPN 7",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/300/500?26",
         "autoRefresh": true
       },
       {
-        "nombre": "Deportes 17",
+        "nombre": "DSPORTS",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/300/500?27",
         "autoRefresh": true
       },
       {
-        "nombre": "Deportes 18",
+        "nombre": "DSPORTS 2",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/300/500?28",
         "autoRefresh": true
       },
       {
-        "nombre": "Deportes 19",
+        "nombre": "DSPORTS mas",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/300/500?29",
         "autoRefresh": true
       },
       {
-        "nombre": "Deportes 20",
+        "nombre": "BEIN SPORTS",
         "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
         "img": "https://picsum.photos/300/500?30",
         "autoRefresh": true
