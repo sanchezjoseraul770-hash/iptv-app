@@ -112,7 +112,7 @@
       },
       {
         "nombre": "TNT SPORTS PREMIUM",
-        "url": "https://s1327.mywebtv.cloud/hls/tntsports/index.m3u8?token=i0GeYBRkyJVes53Pnlo8wA&expires=1778234567",
+        "url": "https://rm8zcvk3.fubohd.com/tntsports/mono.m3u8?token=28f8e3f52aa7930f977d373e6033d3cb4fe405f3-b0-1778243534-1778225534",
         "img": "https://picsum.photos/300/500?16",
         "token": true,
         "refreshMinutes": 20,
@@ -120,7 +120,7 @@
       },
       {
         "nombre": "FOXSPORTS",
-        "url": "https://s1327.mywebtv.cloud/hls/foxsports/index.m3u8?token=58Hi_BcMmIIg_RP__HAM4g&expires=1778234609",
+        "url": "https://anvtcax.fubohd.com/foxsports/mono.m3u8?token=17a43d1956477ec4f9d54baecc428b3047651c5c-34-1778243480-1778225480",
         "img": "https://picsum.photos/300/500?17",
         "autoRefresh": true
       },
@@ -138,7 +138,7 @@
       },
       {
         "nombre": "ESPN",
-        "url": "https://s1327.mywebtv.cloud/hls/espn/index.m3u8?token=-5x9X_CNoHPtOTHVinXJiA&expires=1778234738",
+        "url": "https://bg622.streamingtv339.com/espn/tracks-v1a1/mono.m3u8?ip=189.148.15.20&token=0162fd4ff48705892eff2bdd0119673528677b95-b0-1778271243-1778217243",
         "img": "https://picsum.photos/300/500?20",
         "autoRefresh": true
       },
