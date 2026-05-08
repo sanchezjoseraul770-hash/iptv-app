@@ -149,8 +149,8 @@
         "autoRefresh": true
       },
       {
-        "nombre": "Cine 2",
-        "url": " ",
+        "nombre": "HBO 2",
+        "url": "https://latam-cache-sv2-cdn.latamlive.net/HBO2_AR_ENC_LIVE/index.m3u8",
         "img": "https://picsum.photos/300/500?2",
         "autoRefresh": true
       },
