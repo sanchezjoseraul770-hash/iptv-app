@@ -1,18 +1,110 @@
 [
   {
-    "categoria": "Deportes",
-    "vertical": true,
-    "canales": [
-      { "nombre": "Winsports Mas", "url": "https://s1327.mywebtv.cloud/hls/winmas/index.m3u8", "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Win_Sports_Logo.png" },
-      { "nombre": "WinSports", "url": "https://s1327.mywebtv.cloud/hls/winsports/index.m3u8", "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Win_Sports_Logo.png" },
-      { "nombre": "Universo", "url": "https://s1327.mywebtv.cloud/hls/universo/index.m3u8", "img": "https://picsum.photos/300/500?11" },
-      { "nombre": "TyC Sports", "url": "https://s1327.mywebtv.cloud/hls/tyc/index.m3u8", "img": "https://picsum.photos/300/500?12" },
-      { "nombre": "TUDN", "url": "https://s1327.mywebtv.cloud/hls/tudn/index.m3u8", "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/TUDN_logo.png" },
-      { "nombre": "TNT Sports", "url": "https://rm8zcvk3.fubohd.com/tntsports/mono.m3u8", "img": "https://picsum.photos/300/500?13" },
-      { "nombre": "FOX Sports", "url": "https://anvtcax.fubohd.com/foxsports/mono.m3u8", "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Fox_Sports_logo_2012.png" },
-      { "nombre": "FOX Sports 2", "url": "https://s1327.mywebtv.cloud/hls/foxsports2/index.m3u8", "img": "https://picsum.photos/300/500?14" },
-      { "nombre": "FOX Sports 3", "url": "https://s1327.mywebtv.cloud/hls/foxsports3/index.m3u8", "img": "https://picsum.photos/300/500?15" },
-      { "nombre": "ESPN", "url": "https://bg622.streamingtv339.com/espn/tracks-v1a1/mono.m3u8", "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" },
+  "categoria": "Deportes",
+  "vertical": true,
+  "canales": [
+    {
+      "nombre": "WinSports",
+      "url": "https://s1327.mywebtv.cloud/hls/winsports/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Win_Sports_Logo.svg"
+    },
+    {
+      "nombre": "WinSports+",
+      "url": "https://s1327.mywebtv.cloud/hls/winmas/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Win_Sports_Logo.svg"
+    },
+    {
+      "nombre": "ESPN",
+      "url": "https://bg622.streamingtv339.com/espn/tracks-v1a1/mono.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg"
+    },
+    {
+      "nombre": "ESPN 2",
+      "url": "https://s1327.mywebtv.cloud/hls/espn2/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg"
+    },
+    {
+      "nombre": "ESPN 3",
+      "url": "https://s1327.mywebtv.cloud/hls/espn3/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg"
+    },
+    {
+      "nombre": "ESPN 4",
+      "url": "https://s1327.mywebtv.cloud/hls/espn4/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg"
+    },
+    {
+      "nombre": "ESPN 5",
+      "url": "https://s1327.mywebtv.cloud/hls/espn5/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg"
+    },
+    {
+      "nombre": "ESPN 6",
+      "url": "https://s1327.mywebtv.cloud/hls/espn6/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg"
+    },
+    {
+      "nombre": "ESPN 7",
+      "url": "https://s1327.mywebtv.cloud/hls/espn7/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg"
+    },
+    {
+      "nombre": "FOX Sports",
+      "url": "https://anvtcax.fubohd.com/foxsports/mono.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Fox_Sports_logo_2012.png"
+    },
+    {
+      "nombre": "FOX Sports 2",
+      "url": "https://s1327.mywebtv.cloud/hls/foxsports2/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Fox_Sports_logo_2012.png"
+    },
+    {
+      "nombre": "FOX Sports 3",
+      "url": "https://s1327.mywebtv.cloud/hls/foxsports3/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Fox_Sports_logo_2012.png"
+    },
+    {
+      "nombre": "TUDN",
+      "url": "https://s1327.mywebtv.cloud/hls/tudn/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/TUDN_logo.png"
+    },
+    {
+      "nombre": "TyC Sports",
+      "url": "https://s1327.mywebtv.cloud/hls/tyc/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/TyC_Sports_logo.png"
+    },
+    {
+      "nombre": "TNT Sports",
+      "url": "https://rm8zcvk3.fubohd.com/tntsports/mono.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3b/TNT_Sports_logo.png"
+    },
+    {
+      "nombre": "BEIN SPORTS",
+      "url": "https://s1327.mywebtv.cloud/hls/beinsportes/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bein_sports_logo.png"
+    },
+    {
+      "nombre": "DIRECTV Sports",
+      "url": "https://s1327.mywebtv.cloud/hls/dsports/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Directv_Sports_logo.png"
+    },
+    {
+      "nombre": "DIRECTV Sports 2",
+      "url": "https://s1327.mywebtv.cloud/hls/dsports2/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Directv_Sports_logo.png"
+    },
+    {
+      "nombre": "DIRECTV Sports+",
+      "url": "https://s1327.mywebtv.cloud/hls/dsportsplus/index.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Directv_Sports_logo.png"
+    },
+    {
+      "nombre": "Eurosport",
+      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Eurosport_logo.svg"
+    }
+  ]
+}
 
       { "nombre": "ESPN 2", "url": "https://s1327.mywebtv.cloud/hls/espn2/index.m3u8", "img": "https://picsum.photos/300/500?16" },
       { "nombre": "ESPN 3", "url": "https://s1327.mywebtv.cloud/hls/espn3/index.m3u8", "img": "https://picsum.photos/300/500?17" },
