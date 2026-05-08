@@ -3,138 +3,28 @@
     "categoria": "Deportes",
     "vertical": true,
     "canales": [
-      {
-        "nombre": "Winsports Mas",
-        "url": "https://s1327.mywebtv.cloud/hls/winmas/index.m3u8?token=QyetYTZ0n6DmJJgYbmnnhA&expires=1778234300",
-        "img": "https://picsum.photos/300/500?11",
-        "token": true,
-        "refreshMinutes": 20,
-        "autoRefresh": true
-      },
-      {
-        "nombre": "WinSports",
-        "url": "https://s1327.mywebtv.cloud/hls/winsports/index.m3u8?token=9TTIRkieaH4trQPRyHVjTA&expires=1778234350",
-        "img": "https://picsum.photos/300/500?12",
-        "token": true,
-        "refreshMinutes": 20,
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Universo",
-        "url": "https://s1327.mywebtv.cloud/hls/universo/index.m3u8?token=mFkQKBnzr51DFjxm3Av9MQ&expires=1778234412",
-        "img": "https://picsum.photos/300/500?13",
-        "token": true,
-        "refreshMinutes": 20,
-        "autoRefresh": true
-      },
-      {
-        "nombre": "TyC Sports",
-        "url": "https://s1327.mywebtv.cloud/hls/tyc/index.m3u8?token=m7zY4nhEOfhnZXwUsVQFUQ&expires=1778234475",
-        "img": "https://picsum.photos/300/500?14",
-        "token": true,
-        "refreshMinutes": 20,
-        "autoRefresh": true
-      },
-      {
-        "nombre": "TUDN",
-        "url": "https://s1327.mywebtv.cloud/hls/tudn/index.m3u8?token=in9Bq9ZagBhzGEAD_oB3hA&expires=1778234509",
-        "img": "https://picsum.photos/300/500?15",
-        "token": true,
-        "refreshMinutes": 20,
-        "autoRefresh": true
-      },
-      {
-        "nombre": "TNT SPORTS PREMIUM",
-        "url": "https://rm8zcvk3.fubohd.com/tntsports/mono.m3u8?token=28f8e3f52aa7930f977d373e6033d3cb4fe405f3-b0-1778243534-1778225534",
-        "img": "https://picsum.photos/300/500?16",
-        "token": true,
-        "refreshMinutes": 20,
-        "autoRefresh": true
-      },
-      {
-        "nombre": "FOXSPORTS",
-        "url": "https://anvtcax.fubohd.com/foxsports/mono.m3u8?token=17a43d1956477ec4f9d54baecc428b3047651c5c-34-1778243480-1778225480",
-        "img": "https://picsum.photos/300/500?17",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "FOXSPORTS 2",
-        "url": "https://s1327.mywebtv.cloud/hls/foxsports2/index.m3u8?token=xzx8GwpJICENmULKicNsqQ&expires=1778234671",
-        "img": "https://picsum.photos/300/500?18",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "FOXSPORTS 3",
-        "url": "https://s1327.mywebtv.cloud/hls/foxsports3/index.m3u8?token=q-cLote8qCTTlpw2gLh1gA&expires=1778234708",
-        "img": "https://picsum.photos/300/500?19",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "ESPN",
-        "url": "https://bg622.streamingtv339.com/espn/tracks-v1a1/mono.m3u8?ip=189.148.15.20&token=0162fd4ff48705892eff2bdd0119673528677b95-b0-1778271243-1778217243",
-        "img": "https://picsum.photos/300/500?20",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "ESPN 2",
-        "url": "https://s1327.mywebtv.cloud/hls/espn2/index.m3u8?token=kW6gW4AYdPJWQOJ0N4qNfw&expires=1778234768",
-        "img": "https://picsum.photos/300/500?21",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "ESPN 3",
-        "url": "https://ym9yzq.fubohd.com/espn3/mono.m3u8?token=9ac4272fcf07d3629c8cee74de4c01103dddcb81-82-1778241854-1778223854",
-        "img": "https://picsum.photos/300/500?22",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "ESPN 4",
-        "url": "https://s1327.mywebtv.cloud/hls/espn4/index.m3u8?token=OLkjyamiLufe7tNk-QHK5Q&expires=1778234821",
-        "img": "https://picsum.photos/300/500?23",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "ESPN 5",
-        "url": "https://s1327.mywebtv.cloud/hls/espn5/index.m3u8?token=ZvHcU6CQlPlLdxsz9696ug&expires=1778234851",
-        "img": "https://picsum.photos/300/500?24",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "ESPN 6",
-        "url": "https://wp9xqedt.fubohd.com/espn6/mono.m3u8?token=5e84c77a9a06df0c6c46df409125e2585987bbfc-b8-1778237706-1778219706",
-        "img": "https://picsum.photos/300/500?25",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "ESPN 7",
-        "url": "https://a2vlca.fubohd.com/espn7/mono.m3u8?token=dd415a3a9c5a4ffd5690663bd01c7ea5a3add79b-1e-1778237652-1778219652",
-        "img": "https://picsum.photos/300/500?26",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "DSPORTS",
-        "url": "https://s1327.mywebtv.cloud/hls/dsports/index.m3u8?token=atY7ahoXcMqTy2l1yPxoOg&expires=1778235118",
-        "img": "https://picsum.photos/300/500?27",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "DSPORTS 2",
-        "url": "https://s1327.mywebtv.cloud/hls/dsports2/index.m3u8?token=Xsa-7MSqbFp22h2DTLNTSw&expires=1778235073",
-        "img": "https://picsum.photos/300/500?28",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "DSPORTS mas",
-        "url": "https://s1327.mywebtv.cloud/hls/dsportsplus/index.m3u8?token=X-aWpCd9paY6pMzYDuhUBg&expires=1778235144",
-        "img": "https://picsum.photos/300/500?29",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "BEIN SPORTS",
-        "url": "https://s1327.mywebtv.cloud/hls/beinsportes/index.m3u8?token=LxPGtdqdw6NTwa_Z2jXEQg&expires=1778235176",
-        "img": "https://picsum.photos/300/500?30",
-        "autoRefresh": true
-      }
+      { "nombre": "Winsports Mas", "url": "https://s1327.mywebtv.cloud/hls/winmas/index.m3u8", "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Win_Sports_Logo.png" },
+      { "nombre": "WinSports", "url": "https://s1327.mywebtv.cloud/hls/winsports/index.m3u8", "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Win_Sports_Logo.png" },
+      { "nombre": "Universo", "url": "https://s1327.mywebtv.cloud/hls/universo/index.m3u8", "img": "https://picsum.photos/300/500?11" },
+      { "nombre": "TyC Sports", "url": "https://s1327.mywebtv.cloud/hls/tyc/index.m3u8", "img": "https://picsum.photos/300/500?12" },
+      { "nombre": "TUDN", "url": "https://s1327.mywebtv.cloud/hls/tudn/index.m3u8", "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/TUDN_logo.png" },
+      { "nombre": "TNT Sports", "url": "https://rm8zcvk3.fubohd.com/tntsports/mono.m3u8", "img": "https://picsum.photos/300/500?13" },
+      { "nombre": "FOX Sports", "url": "https://anvtcax.fubohd.com/foxsports/mono.m3u8", "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Fox_Sports_logo_2012.png" },
+      { "nombre": "FOX Sports 2", "url": "https://s1327.mywebtv.cloud/hls/foxsports2/index.m3u8", "img": "https://picsum.photos/300/500?14" },
+      { "nombre": "FOX Sports 3", "url": "https://s1327.mywebtv.cloud/hls/foxsports3/index.m3u8", "img": "https://picsum.photos/300/500?15" },
+      { "nombre": "ESPN", "url": "https://bg622.streamingtv339.com/espn/tracks-v1a1/mono.m3u8", "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_wordmark.svg" },
+
+      { "nombre": "ESPN 2", "url": "https://s1327.mywebtv.cloud/hls/espn2/index.m3u8", "img": "https://picsum.photos/300/500?16" },
+      { "nombre": "ESPN 3", "url": "https://s1327.mywebtv.cloud/hls/espn3/index.m3u8", "img": "https://picsum.photos/300/500?17" },
+      { "nombre": "ESPN 4", "url": "https://s1327.mywebtv.cloud/hls/espn4/index.m3u8", "img": "https://picsum.photos/300/500?18" },
+      { "nombre": "ESPN 5", "url": "https://s1327.mywebtv.cloud/hls/espn5/index.m3u8", "img": "https://picsum.photos/300/500?19" },
+      { "nombre": "ESPN 6", "url": "https://s1327.mywebtv.cloud/hls/espn6/index.m3u8", "img": "https://picsum.photos/300/500?20" },
+      { "nombre": "ESPN 7", "url": "https://s1327.mywebtv.cloud/hls/espn7/index.m3u8", "img": "https://picsum.photos/300/500?21" },
+
+      { "nombre": "DSPORTS", "url": "https://s1327.mywebtv.cloud/hls/dsports/index.m3u8", "img": "https://picsum.photos/300/500?22" },
+      { "nombre": "DSPORTS 2", "url": "https://s1327.mywebtv.cloud/hls/dsports2/index.m3u8", "img": "https://picsum.photos/300/500?23" },
+      { "nombre": "DSPORTS+", "url": "https://s1327.mywebtv.cloud/hls/dsportsplus/index.m3u8", "img": "https://picsum.photos/300/500?24" },
+      { "nombre": "BEIN SPORTS", "url": "https://s1327.mywebtv.cloud/hls/beinsportes/index.m3u8", "img": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Bein_sports_logo.png" }
     ]
   },
 
@@ -142,133 +32,33 @@
     "categoria": "CINE",
     "vertical": true,
     "canales": [
-      {
-        "nombre": "Cine 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?3",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "HBO 2",
-        "url": "https://latam-cache-sv2-cdn.latamlive.net/HBO2_AR_ENC_LIVE/index.m3u8",
-        "img": "https://picsum.photos/300/500?2",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 3",
-        "url": "",
-        "img": "https://picsum.photos/300/500?3",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 4",
-        "url": "",
-        "img": "https://picsum.photos/300/500?4",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 5",
-        "url": "",
-        "img": "https://picsum.photos/300/500?5",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 6",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?6",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 7",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?7",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 8",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?8",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 9",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?9",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 10",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?10",
-        "autoRefresh": true
-      }
+      { "nombre": "Cine 1", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?101" },
+      { "nombre": "Cine 2", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?102" },
+      { "nombre": "Cine 3", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?103" },
+      { "nombre": "Cine 4", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?104" },
+      { "nombre": "Cine 5", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?105" },
+      { "nombre": "Cine 6", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?106" },
+      { "nombre": "Cine 7", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?107" },
+      { "nombre": "Cine 8", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?108" },
+      { "nombre": "Cine 9", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?109" },
+      { "nombre": "Cine 10", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?110" }
     ]
   },
-  
+
   {
     "categoria": "SERIES",
     "vertical": true,
     "canales": [
-      {
-        "nombre": "TNT SERIES",
-        "url": "https://video.xtrematv.com:3633/live/memoriasserieslive.m3u8",
-        "img": "https://picsum.photos/300/500?21",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Series 2",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?22",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Series 3",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?23",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Series 4",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?24",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Series 5",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?25",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Series 6",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?26",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Series 7",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?27",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Series 8",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?28",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Series 9",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?29",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Series 10",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?30",
-        "autoRefresh": true
-      }
+      { "nombre": "Serie 1", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?201" },
+      { "nombre": "Serie 2", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?202" },
+      { "nombre": "Serie 3", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?203" },
+      { "nombre": "Serie 4", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?204" },
+      { "nombre": "Serie 5", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?205" },
+      { "nombre": "Serie 6", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?206" },
+      { "nombre": "Serie 7", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?207" },
+      { "nombre": "Serie 8", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?208" },
+      { "nombre": "Serie 9", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?209" },
+      { "nombre": "Serie 10", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?210" }
     ]
   },
 
@@ -276,66 +66,16 @@
     "categoria": "MUSICA",
     "vertical": true,
     "canales": [
-      {
-        "nombre": "Música 1",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?31",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Música 2",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?32",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Música 3",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?33",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Música 4",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?34",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Música 5",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?35",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Música 6",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?36",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Música 7",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?37",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Música 8",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?38",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Música 9",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?39",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Música 10",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?40",
-        "autoRefresh": true
-      }
+      { "nombre": "Musica 1", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?301" },
+      { "nombre": "Musica 2", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?302" },
+      { "nombre": "Musica 3", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?303" },
+      { "nombre": "Musica 4", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?304" },
+      { "nombre": "Musica 5", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?305" },
+      { "nombre": "Musica 6", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?306" },
+      { "nombre": "Musica 7", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?307" },
+      { "nombre": "Musica 8", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?308" },
+      { "nombre": "Musica 9", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?309" },
+      { "nombre": "Musica 10", "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "img": "https://picsum.photos/300/500?310" }
     ]
   }
 ]
