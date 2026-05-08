@@ -1,72 +1,5 @@
 [
   {
-    "categoria": "CINE",
-    "vertical": true,
-    "canales": [
-      {
-        "nombre": "Cine 1",
-        "url": "",
-        "img": "https://picsum.photos/300/500?1",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 2",
-        "url": " ",
-        "img": "https://picsum.photos/300/500?2",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 3",
-        "url": "",
-        "img": "https://picsum.photos/300/500?3",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 4",
-        "url": "",
-        "img": "https://picsum.photos/300/500?4",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 5",
-        "url": "",
-        "img": "https://picsum.photos/300/500?5",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 6",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?6",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 7",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?7",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 8",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?8",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 9",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?9",
-        "autoRefresh": true
-      },
-      {
-        "nombre": "Cine 10",
-        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
-        "img": "https://picsum.photos/300/500?10",
-        "autoRefresh": true
-      }
-    ]
-  },
-
-  {
     "categoria": "Deportes",
     "vertical": true,
     "canales": [
@@ -205,6 +138,73 @@
     ]
   },
 
+  {
+    "categoria": "CINE",
+    "vertical": true,
+    "canales": [
+      {
+        "nombre": "Cine 1",
+        "url": "",
+        "img": "https://picsum.photos/300/500?1",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Cine 2",
+        "url": " ",
+        "img": "https://picsum.photos/300/500?2",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Cine 3",
+        "url": "",
+        "img": "https://picsum.photos/300/500?3",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Cine 4",
+        "url": "",
+        "img": "https://picsum.photos/300/500?4",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Cine 5",
+        "url": "",
+        "img": "https://picsum.photos/300/500?5",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Cine 6",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?6",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Cine 7",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?7",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Cine 8",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?8",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Cine 9",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?9",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Cine 10",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?10",
+        "autoRefresh": true
+      }
+    ]
+  },
+  
   {
     "categoria": "SERIES",
     "vertical": true,
