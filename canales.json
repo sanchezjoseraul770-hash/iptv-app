@@ -29,7 +29,7 @@
       },
       {
         "nombre": "Cine 5",
-        "url": "https://s1327.mywebtv.cloud/hls/tntsports/index.m3u8?token=bgO93A1GSRQzfXyw2aBy4g&expires=1778231521",
+        "url": "https://s1327.mywebtv.cloud/hls/espn5/index.m3u8?token=cGQaJEjsYCgt29Y8SRmzAA&expires=1778231725",
         "img": "https://picsum.photos/300/500?5",
         "autoRefresh": true
       },
