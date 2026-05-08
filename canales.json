@@ -145,7 +145,7 @@
       {
         "nombre": "Cine 1",
         "url": "https://regionales.saohgdasregions.fun:9092/MTg5LjE0OC4xNS4yMA==/53_.m3u8?token=k8fPscEM52AcKOz3FrWPjA&expires=1778274566",
-        "img": "https://picsum.photos",
+        "img": "https://picsum.photos/300/500?3",
         "autoRefresh": true
       },
       {
