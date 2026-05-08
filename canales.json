@@ -117,6 +117,90 @@
         "token": true,
         "refreshMinutes": 20,
         "autoRefresh": true
+      },
+      {
+        "nombre": "Deportes 7",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?17",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Deportes 8",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?18",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Deportes 9",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?19",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Deportes 10",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?20",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Deportes 11",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?21",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Deportes 12",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?22",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Deportes 13",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?23",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Deportes 14",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?24",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Deportes 15",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?25",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Deportes 16",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?26",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Deportes 17",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?27",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Deportes 18",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?28",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Deportes 19",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?29",
+        "autoRefresh": true
+      },
+      {
+        "nombre": "Deportes 20",
+        "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+        "img": "https://picsum.photos/300/500?30",
+        "autoRefresh": true
       }
     ]
   },
