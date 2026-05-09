@@ -13,7 +13,7 @@
       },
       {
         "nombre": "WinSports",
-        "url": "https://w1327.mywebtv.cloud/hls/winsports/index.m3u8?token=m8WhTEjAGFhmE-GmneP_-Q&expires=1778379141",
+        "url": "https://x4bnd7lq.fubohd.com/winsports/mono.m3u8?token=1b0eb428ee5e72296f3ee7c7533696a726742294-ea-1778383093-1778365093",
         "img": "https://picsum.photos/300/500?12",
         "token": true,
         "refreshMinutes": 20,
@@ -21,7 +21,7 @@
       },
       {
         "nombre": "Universo",
-        "url": "https://w1327.mywebtv.cloud/hls/universo/index.m3u8?token=5w_LoczctHFM_McPwKGPxg&expires=1778379183",
+        "url": "https://zb533.streamingtv339.com/universo/tracks-v1a1/mono.m3u8?ip=189.199.45.168&token=716e9ff71e49a217b95b095165e5cbbf41fc2ced-ff-1778411038-1778357038",
         "img": "https://picsum.photos/300/500?13",
         "token": true,
         "refreshMinutes": 20,
@@ -29,7 +29,7 @@
       },
       {
         "nombre": "TyC Sports",
-        "url": "https://w1327.mywebtv.cloud/hls/tyc/index.m3u8?token=w_8hjYu67UFM7liGaUmSAw&expires=1778379242",
+        "url": "",
         "img": "https://picsum.photos/300/500?14",
         "token": true,
         "refreshMinutes": 20,
