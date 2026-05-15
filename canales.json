@@ -5,7 +5,7 @@
     "canales": [
       {
         "nombre": "Winsports Mas",
-        "url": "https://d8vgvfuq.39564828.net:8443/hls/5saoliikrlndr.m3u8?s=4iDd9Oo-_HfOHvrBZo37zg&e=1778836775",
+        "url": "https://wp9xqedt.fubohd.com/winsports2/mono.m3u8?token=569e2b6d653ce9366e0f7a389d95f42a8ac5a42c-6-1778834168-1778816168",
         "img": "https://picsum.photos/300/500?11",
         "token": true,
         "refreshMinutes": 20,
@@ -13,7 +13,7 @@
       },
       {
         "nombre": "WinSports",
-        "url": "https://d8vgvfuq.39564828.net:8443/hls/2v618t7duryfn.m3u8?s=U-tiR-HjPLQpnryXQYGbtQ&e=1778836931",
+        "url": "https://ag9wzq.fubohd.com/winsports/mono.m3u8?token=80d3ae9c7daf953fa5e36735d84806b9cae68cae-63-1778834314-1778816314",
         "img": "https://picsum.photos/300/500?12",
         "token": true,
         "refreshMinutes": 20,
@@ -21,7 +21,7 @@
       },
       {
         "nombre": "Universo",
-        "url": "https://w1327.mywebtv.cloud/hls/universo/index.m3u8?token=h9k6x3WsS_2tPgCJ9t56HQ&expires=1778829769",
+        "url": "https://pr745.streamingtv339.com/global/universo/index.m3u8?token=5f75aecbff7bb0d88fd1a1413a1aec94240b931d-b3-1778862264-1778808264&ip=189.150.153.126",
         "img": "https://picsum.photos/300/500?13",
         "token": true,
         "refreshMinutes": 20,
@@ -29,7 +29,7 @@
       },
       {
         "nombre": "TyC Sports",
-        "url": "https://w1327.mywebtv.cloud/hls/tyc/index.m3u8?token=oK04YYmN5yrXMLvplAT8Sg&expires=1778829830",
+        "url": "https://dw5pdgvk.fubohd.com/tycsports/mono.m3u8?token=4856859505c73f2bf08f68c124042fa08744e5b6-82-1778834407-1778816407",
         "img": "https://picsum.photos/300/500?15",
         "token": true,
         "refreshMinutes": 20,
