@@ -21,7 +21,7 @@
       },
       {
         "nombre": "Universo",
-        "url": "https://pr745.streamingtv339.com/global/universo/index.m3u8?token=5f75aecbff7bb0d88fd1a1413a1aec94240b931d-b3-1778862264-1778808264&ip=189.150.153.126",
+        "url": "https://pr745.streamingtv339.com/universo/tracks-v1a1/mono.m3u8?ip=189.148.14.209&token=8fc5bae451cecf945861f3a4a8568fe9c5c047b8-20-1780061260-1780007260",
         "img": "https://picsum.photos/300/500?13",
         "token": true,
         "refreshMinutes": 20,
@@ -29,7 +29,7 @@
       },
       {
         "nombre": "TyC Sports",
-        "url": "https://dw5pdgvk.fubohd.com/tycsports/mono.m3u8?token=4856859505c73f2bf08f68c124042fa08744e5b6-82-1778834407-1778816407",
+        "url": "https://ag9wzq.fubohd.com/tycsports/mono.m3u8?token=7e3e59416499da7ef317ff2d6622045e54fc7b78-f9-1780033422-1780015422",
         "img": "https://picsum.photos/300/500?15",
         "token": true,
         "refreshMinutes": 20,
@@ -37,7 +37,7 @@
       },
       {
         "nombre": "TUDN",
-        "url": "https://ym9yzq.fubohd.com/tudn/mono.m3u8?token=b950db3dedc75a33b03e77532a2c78243c7b084d-a4-1778834778-1778816778",
+        "url": "https://anvtcax.fubohd.com/tudn/mono.m3u8?token=361a631709c7f9f1e643a745592c8770df6a7ddb-d-1780033463-1780015463",
         "img": "https://picsum.photos/300/500?15",
         "token": true,
         "refreshMinutes": 20,
