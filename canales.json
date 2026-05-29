@@ -5,97 +5,97 @@
     "canales": [
       {
         "nombre": "Winsports Mas",
-        "url": "https://ym9yzq.fubohd.com/winplus/mono.m3u8?token=681cc70b913ded365dd8ce4cc3001cd3d32069cf-2f-1780094440-1780076440",
+        "url": "https://cgxheq.fubohd.com/winplus/mono.m3u8?token=c33fc3c787f3cc25cf9b64aee9e9ee2bf0499cde-e7-1780114804-1780096804",
         "img": "https://picsum.photos/300/500?11",
         "autoRefresh": true
       },
       {
         "nombre": "WinSports",
-        "url": "https://x4bnd7lq.fubohd.com/winsports/mono.m3u8?token=35146815dd240ca889a72df3eb153e6ff855d215-3b-1780094580-1780076580",
+        "url": "https://cgxheq.fubohd.com/winsports/mono.m3u8?token=5e9cc9935a3dc92f71541ceb5377485d5d1c9c62-87-1780114833-1780096833",
         "img": "https://picsum.photos/300/500?12",
         "autoRefresh": true
       },
       {
         "nombre": "Universo",
-        "url": "https://zb533.streamingtv339.com/universo/tracks-v1a1/mono.m3u8?ip=189.148.14.209&token=cc4bbf49808d13a0988f6b83484086299eacd488-77-1780122589-1780068589",
+        "url": "https://zb533.streamingtv339.com/universo/tracks-v1a1/mono.m3u8?ip=189.148.14.209&token=51ec7c50acae6301ae2edc5079e5b45e1c56cb26-ac-1780142789-1780088789",
         "img": "https://picsum.photos/300/500?13",
         "autoRefresh": true
       },
       {
         "nombre": "TyC Sports",
-        "url": "https://ag9wzq.fubohd.com/tycsports/mono.m3u8?token=7e3e59416499da7ef317ff2d6622045e54fc7b78-f9-1780033422-1780015422",
+        "url": "https://w1327.mywebtv.cloud/hls/tyc/index.m3u8?token=VCE_Z96AuEO9yneTw_ZBNg&expires=1780112223",
         "img": "https://picsum.photos/300/500?15",
         "autoRefresh": true
       },
       {
         "nombre": "TUDN",
-        "url": "https://dw5pdgvk.fubohd.com/tudn/mono.m3u8?token=051446435ce08ab2738c7cc4bc89179592d3ca28-3b-1780094842-1780076842",
+        "url": "https://ym9yzq.fubohd.com/tudn/mono.m3u8?token=fc243a957b7e45d416e9ebefc932ac4adad249dd-20-1780114960-1780096960",
         "img": "https://picsum.photos/300/500?16",
         "autoRefresh": true
       },
       {
         "nombre": "TNT SPORTS PREMIUM",
-        "url": "https://ag9wzq.fubohd.com/tycsports/mono.m3u8?token=496db4d20e6ff6f6f63e9574c4c53d40eb65e3fa-ee-1780094739-1780076739",
+        "url": "https://rm8zcvk3.fubohd.com/tntsports/mono.m3u8?token=38a387a1af50886f901f3465f846faf075ec264a-0-1780115003-1780097003",
         "img": "https://picsum.photos/300/500?17",
         "autoRefresh": true
       },
       {
         "nombre": "FOXSPORTS",
-        "url": "https://rm8zcvk3.fubohd.com/foxsports/mono.m3u8?token=d64516968fcc9acdf9127981a94e679994baef96-fd-1780094903-1780076903",
+        "url": "https://w1327.mywebtv.cloud/hls/foxsports/index.m3u8?token=eJAqyzjG6WslVwyfuH_s7g&expires=1780112338",
         "img": "https://picsum.photos/300/500?18",
         "autoRefresh": true
       },
       {
         "nombre": "FOXSPORTS 2",
-        "url": "https://dw5pdgvk.fubohd.com/foxsports2/mono.m3u8?token=e52d314c5cb233b4ea48f40b89cbe1c633b7dcd2-31-1780094942-1780076942",
+        "url": "https://w1327.mywebtv.cloud/hls/foxsports2/index.m3u8?token=NC74kb_-I-zBmGFe0XnlUQ&expires=1780112365",
         "img": "https://picsum.photos/300/500?19",
         "autoRefresh": true
       },
       {
         "nombre": "FOXSPORTS 3",
-        "url": "https://8c51.streameasthd.net/fox3ar/tracks-v1a1/mono.m3u8?ip=189.148.14.209&token=4b6743be736cea96ec77d5c2db25c36e61a6b5d8-f8-1780122893-1780068893",
+        "url": "https://98ca2.streameasthd.net/fox3ar/tracks-v1a1/mono.m3u8?ip=189.148.14.209&token=0bac9d38b454ccca85bcfa63f9ddeef2a055c749-18-1780143011-1780089011",
         "img": "https://picsum.photos/300/500?20",
         "autoRefresh": true
       },
       {
         "nombre": "ESPN",
-        "url": "https://doc1.streameasthd.net/espn/tracks-v1a1/mono.m3u8?ip=189.148.14.209&token=ac1f494100fdd98a328fdc2fef5e80e5d4e8982f-8f-1780122937-1780068937",
+        "url": "https://w1327.mywebtv.cloud/hls/espn/index.m3u8?token=lYR5aDVL0P41huYnVSCoXw&expires=1780112451",
         "img": "https://picsum.photos/300/500?21",
         "autoRefresh": true
       },
       {
         "nombre": "ESPN 2",
-        "url": "https://cgxheq.fubohd.com/espn2/mono.m3u8?token=309cebee6bf9649023dec26cf830024b8c7f039b-da-1780095081-1780077081",
+        "url": "https://w1327.mywebtv.cloud/hls/espn2/index.m3u8?token=D0mpZdqzoBE0STITLW_rEw&expires=1780112473",
         "img": "https://picsum.photos/300/500?22",
         "autoRefresh": true
       },
       {
         "nombre": "ESPN 3",
-        "url": "https://ag9wzq.fubohd.com/espn3/mono.m3u8?token=88dbe9207095cfdfffe6402cc31ed5c734523d48-a8-1780095123-1780077123",
+        "url": "https://w1327.mywebtv.cloud/hls/espn3/index.m3u8?token=7lye6tWS4CHY3yWNprjhKA&expires=1780112486",
         "img": "https://picsum.photos/300/500?23",
         "autoRefresh": true
       },
       {
         "nombre": "ESPN 4",
-        "url": "https://bgfuzq.fubohd.com/espn4/mono.m3u8?token=b3846d2e075fb87d5025a5a0fab9b582e1e90625-b0-1780095186-1780077186",
+        "url": "https://w1327.mywebtv.cloud/hls/espn4/index.m3u8?token=WaKKe8U3gvHCHjJXQA97mw&expires=1780112518",
         "img": "https://picsum.photos/300/500?24",
         "autoRefresh": true
       },
       {
         "nombre": "ESPN 5",
-        "url": "https://anvtcax.fubohd.com/espn5/mono.m3u8?token=11912d7a0b7d6c6317661dfcc6232256bb595e75-83-1780095246-1780077246",
+        "url": "https://w1327.mywebtv.cloud/hls/espn5/index.m3u8?token=rmZ3WCP8vankUKB509QqcQ&expires=1780112539",
         "img": "https://picsum.photos/300/500?25",
         "autoRefresh": true
       },
       {
         "nombre": "ESPN 6",
-        "url": "https://agvyby.fubohd.com/espn6/mono.m3u8?token=68b5f142fd857d3943cbe0167f6d89dbc568b8a5-73-1780095292-1780077292",
+        "url": "https://w1327.mywebtv.cloud/hls/espn6/index.m3u8?token=BJXvyA5u_hhVvtLtSm_BKQ&expires=1780112565",
         "img": "https://picsum.photos/300/500?26",
         "autoRefresh": true
       },
       {
         "nombre": "ESPN 7",
-        "url": "https://qzv4jmsc.fubohd.com/espn7/mono.m3u8?token=388cb4ef35e6e546a06fe3ecf5497dd2374276fc-25-1780095322-1780077322",
+        "url": "https://w1327.mywebtv.cloud/hls/espn7/index.m3u8?token=iq59qUkuNMBx63fJ5PqVOA&expires=1780112590",
         "img": "https://picsum.photos/300/500?27",
         "autoRefresh": true
       },
