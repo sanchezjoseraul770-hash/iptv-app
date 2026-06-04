@@ -1,7 +1,107 @@
+[
 {
-  "nombre": "W Deportes",
-  "tipo": "web",
-  "url": "https://wsdeportes.net/",
-  "img": "https://picsum.photos/300/500?10",
-  "autoRefresh": false
+"categoria": "PELICULAS",
+"canales": [
+{
+"nombre": "Películas 1",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+1",
+"url": "URL1.m3u8"
+},
+{
+"nombre": "Películas 2",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+2",
+"url": "URL2.m3u8"
+},
+{
+"nombre": "Películas 3",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+3",
+"url": "URL3.m3u8"
+},
+{
+"nombre": "Películas 4",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+4",
+"url": "URL4.m3u8"
+},
+{
+"nombre": "Películas 5",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+5",
+"url": "URL5.m3u8"
+},
+{
+"nombre": "Películas 6",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+6",
+"url": "URL6.m3u8"
+},
+{
+"nombre": "Películas 7",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+7",
+"url": "URL7.m3u8"
+},
+{
+"nombre": "Películas 8",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+8",
+"url": "URL8.m3u8"
+},
+{
+"nombre": "Películas 9",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+9",
+"url": "URL9.m3u8"
+},
+{
+"nombre": "Películas 10",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+10",
+"url": "URL10.m3u8"
+},
+{
+"nombre": "Películas 11",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+11",
+"url": "URL11.m3u8"
+},
+{
+"nombre": "Películas 12",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+12",
+"url": "URL12.m3u8"
+},
+{
+"nombre": "Películas 13",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+13",
+"url": "URL13.m3u8"
+},
+{
+"nombre": "Películas 14",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+14",
+"url": "URL14.m3u8"
+},
+{
+"nombre": "Películas 15",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+15",
+"url": "URL15.m3u8"
+},
+{
+"nombre": "Películas 16",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+16",
+"url": "URL16.m3u8"
+},
+{
+"nombre": "Películas 17",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+17",
+"url": "URL17.m3u8"
+},
+{
+"nombre": "Películas 18",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+18",
+"url": "URL18.m3u8"
+},
+{
+"nombre": "Películas 19",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+19",
+"url": "URL19.m3u8"
+},
+{
+"nombre": "Películas 20",
+"img": "https://via.placeholder.com/300x500.png?text=PELICULA+20",
+"url": "URL20.m3u8"
 }
+]
+}
+]
