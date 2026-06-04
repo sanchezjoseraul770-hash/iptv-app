@@ -3,9 +3,9 @@
 "categoria": "PELICULAS",
 "canales": [
 {
-"nombre": "Películas 1",
+"nombre": "CASCARA tv",
 "img": "https://via.placeholder.com/300x500.png?text=PELICULA+1",
-"url": "URL1.m3u8"
+"url": "https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/chunklist_w4847676.m3u8"
 },
 {
 "nombre": "Películas 2",
